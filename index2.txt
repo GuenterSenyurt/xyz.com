@@ -1,0 +1,4 @@
+function sendMessage(){
+    //eposta gonderme kodlari
+    
+}
